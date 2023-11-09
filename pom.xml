@@ -203,14 +203,14 @@
 
   <distributionManagement>
 		<repository>
-			<id>spring-release</id>
-			<name>spring-release</name>
-			<url>http://43.205.212.86:8081/repository/spring-release/</url>
+			<id>docker</id>
+			<name>docker</name>
+			<url>http://3.91.183.29:8081/repository/docker/</url>
 		</repository>
 		<snapshotRepository>
-			<id>spring-snapshot</id>
-			<name>spring-snapshot</name>
-			<url>http://43.205.212.86:8081/repository/spring-snapshot/</url>
+			<id>docker1</id>
+			<name>docker1</name>
+			<url>http://3.91.183.29:8081/repository/docker1/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
